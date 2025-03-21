@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  font-family: Calibri, sans-serif;
+  font-size: 20px;
 }
 
 h1 {
@@ -11,3 +13,4 @@ p {
   font-family: Calibri, sans-serif;
   font-size: 20px;
 }
+
